@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311910118947",
+    "project_id": "the-store-13477",
+    "storage_bucket": "the-store-13477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311910118947:android:55f6c8c05230166fe96396",
+        "android_client_info": {
+          "package_name": "com.nens.thestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311910118947-2bhhmlt392qc2joq7v3a742dj8k2reh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKWTiAh2GLLDEZ8F6D1G3NOeV6-A-IFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311910118947-2bhhmlt392qc2joq7v3a742dj8k2reh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
